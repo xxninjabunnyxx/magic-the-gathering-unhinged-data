@@ -1,0 +1,105 @@
+---
+object: card
+id: 2ee08949-7cd4-4099-a109-de041a201529
+oracle_id: 77014a94-650a-46e4-8d62-abbd31ee5b99
+multiverse_ids: []
+tcgplayer_id: 81781
+cardmarket_id: 14812
+name: Bad Ass
+lang: en
+released_at: '2004-11-19'
+uri: https://api.scryfall.com/cards/2ee08949-7cd4-4099-a109-de041a201529
+scryfall_uri: https://scryfall.com/card/unh/49%E2%98%85/bad-ass?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.jpg?1562487910
+  normal: https://cards.scryfall.io/normal/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.jpg?1562487910
+  large: https://cards.scryfall.io/large/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.jpg?1562487910
+  png: https://cards.scryfall.io/png/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.png?1562487910
+  art_crop: https://cards.scryfall.io/art_crop/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.jpg?1562487910
+  border_crop: https://cards.scryfall.io/border_crop/front/2/e/2ee08949-7cd4-4099-a109-de041a201529.jpg?1562487910
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Donkey Zombie
+oracle_text: "{1}{B}, Growl: Regenerate Bad Ass."
+power: '3.5'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4c8bc76a-05a5-43db-aaf0-34deb347b871
+set: unh
+set_name: Unhinged
+set_type: funny
+set_uri: https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/unh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2ee08949-7cd4-4099-a109-de041a201529/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77014a94-650a-46e4-8d62-abbd31ee5b99&unique=prints
+collector_number: 49★
+digital: false
+rarity: common
+flavor_text: He wanders the land in search of Good Ass.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Thomas M. Baxa
+artist_ids:
+- ff346569-557d-4043-ae44-97c2c7cabd7d
+illustration_id: bf6ebe88-c140-4721-9cee-1dcd2eb2aad3
+border_color: silver
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: '4.13'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bad+Ass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bad+Ass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bad+Ass
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/81781?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bad+Ass&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bad+Ass&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

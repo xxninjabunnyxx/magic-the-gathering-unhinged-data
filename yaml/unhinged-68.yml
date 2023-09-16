@@ -1,0 +1,110 @@
+---
+object: card
+id: b5a5e4c9-8452-4fdc-a5f0-5fd168e18050
+oracle_id: 7e423694-e70c-41ca-b816-8e6ed306b585
+multiverse_ids:
+- 74241
+tcgplayer_id: 37952
+cardmarket_id: 14831
+name: Working Stiff
+lang: en
+released_at: '2004-11-19'
+uri: https://api.scryfall.com/cards/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050
+scryfall_uri: https://scryfall.com/card/unh/68/working-stiff?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.jpg?1562489370
+  normal: https://cards.scryfall.io/normal/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.jpg?1562489370
+  large: https://cards.scryfall.io/large/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.jpg?1562489370
+  png: https://cards.scryfall.io/png/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.png?1562489370
+  art_crop: https://cards.scryfall.io/art_crop/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.jpg?1562489370
+  border_crop: https://cards.scryfall.io/border_crop/front/b/5/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050.jpg?1562489370
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Mummy
+oracle_text: |-
+  As Working Stiff enters the battlefield, straighten your arms.
+  When you bend an elbow, sacrifice Working Stiff.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4c8bc76a-05a5-43db-aaf0-34deb347b871
+set: unh
+set_name: Unhinged
+set_type: funny
+set_uri: https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/unh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b5a5e4c9-8452-4fdc-a5f0-5fd168e18050/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e423694-e70c-41ca-b816-8e6ed306b585&unique=prints
+collector_number: '68'
+digital: false
+rarity: uncommon
+flavor_text: Oh, does your nose itch?
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: c7e48893-1414-4c59-ba68-57b56363eab0
+border_color: silver
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.19'
+  usd_foil: '1.47'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74241
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Working+Stiff&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Working+Stiff&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Working+Stiff
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37952?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Working+Stiff&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Working+Stiff&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

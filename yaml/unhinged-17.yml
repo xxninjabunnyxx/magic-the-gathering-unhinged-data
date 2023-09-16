@@ -1,0 +1,105 @@
+---
+object: card
+id: c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74
+oracle_id: 464daad1-5877-4612-8eb5-7e581317f03d
+multiverse_ids:
+- 74360
+tcgplayer_id: 37884
+cardmarket_id: 14780
+name: Look at Me, I'm R&D
+lang: en
+released_at: '2004-11-19'
+uri: https://api.scryfall.com/cards/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74
+scryfall_uri: https://scryfall.com/card/unh/17/look-at-me-im-r&d?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.jpg?1562489380
+  normal: https://cards.scryfall.io/normal/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.jpg?1562489380
+  large: https://cards.scryfall.io/large/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.jpg?1562489380
+  png: https://cards.scryfall.io/png/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.png?1562489380
+  art_crop: https://cards.scryfall.io/art_crop/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.jpg?1562489380
+  border_crop: https://cards.scryfall.io/border_crop/front/c/1/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74.jpg?1562489380
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: |-
+  As Look at Me, I'm R&D comes into play, choose a number and a second number one higher or one lower than that number.
+  All instances of the first chosen number on permanents, spells, and cards in any zone are the second chosen number.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4c8bc76a-05a5-43db-aaf0-34deb347b871
+set: unh
+set_name: Unhinged
+set_type: funny
+set_uri: https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/unh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c1f9c8f9-dbb4-408f-835a-4b6c6abfdc74/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A464daad1-5877-4612-8eb5-7e581317f03d&unique=prints
+collector_number: '17'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: ''
+illustration_id: 90208901-7fc5-4d0e-9049-c50fc4b32c27
+border_color: silver
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.73'
+  usd_foil: '46.97'
+  usd_etched: 
+  eur: '1.45'
+  eur_foil: '88.20'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74360
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Look+at+Me%2C+I%27m+R%26D&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Look+at+Me%2C+I%27m+R%26D&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Look+at+Me%2C+I%27m+R%26D
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37884?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Look+at+Me%2C+I%27m+R%26D&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Look+at+Me%2C+I%27m+R%26D&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

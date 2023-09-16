@@ -1,0 +1,120 @@
+---
+object: card
+id: 3002ffee-28ec-4aa4-8433-a009273a4ada
+oracle_id: 3d190316-138e-45f5-b6f0-11667bd0630b
+multiverse_ids:
+- 73953
+tcgplayer_id: 37947
+cardmarket_id: 14895
+name: Water Gun Balloon Game
+lang: en
+released_at: '2004-11-19'
+uri: https://api.scryfall.com/cards/3002ffee-28ec-4aa4-8433-a009273a4ada
+scryfall_uri: https://scryfall.com/card/unh/132/water-gun-balloon-game?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.jpg?1562487914
+  normal: https://cards.scryfall.io/normal/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.jpg?1562487914
+  large: https://cards.scryfall.io/large/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.jpg?1562487914
+  png: https://cards.scryfall.io/png/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.png?1562487914
+  art_crop: https://cards.scryfall.io/art_crop/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.jpg?1562487914
+  border_crop: https://cards.scryfall.io/border_crop/front/3/0/3002ffee-28ec-4aa4-8433-a009273a4ada.jpg?1562487914
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  As Water Gun Balloon Game enters the battlefield, each player puts a pop! counter on "0."
+  Whenever a player casts a spell, move that player's pop! counter up one.
+  Whenever a player's pop! counter hits "5," that player creates a 5/5 pink Giant Teddy Bear creature token and resets all pop! counters to "0."
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 3002ffee-28ec-4aa4-8433-a009273a4ada
+  component: combo_piece
+  name: Water Gun Balloon Game
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/3002ffee-28ec-4aa4-8433-a009273a4ada
+- object: related_card
+  id: 628c542b-7579-4070-9143-6f1f7221468f
+  component: token
+  name: Giant Teddy Bear
+  type_line: Token Creature — Giant Teddy Bear
+  uri: https://api.scryfall.com/cards/628c542b-7579-4070-9143-6f1f7221468f
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4c8bc76a-05a5-43db-aaf0-34deb347b871
+set: unh
+set_name: Unhinged
+set_type: funny
+set_uri: https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/unh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3002ffee-28ec-4aa4-8433-a009273a4ada/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3d190316-138e-45f5-b6f0-11667bd0630b&unique=prints
+collector_number: '132'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Brill
+artist_ids:
+- 46dc4b5e-e42c-4d65-a4f3-ad75b0f6f6dd
+illustration_id: b8babcc6-ac24-4012-ab39-ef44c11ec4c6
+border_color: silver
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24979
+prices:
+  usd: '1.18'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.49'
+  eur_foil: '17.98'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73953
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Water+Gun+Balloon+Game&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Water+Gun+Balloon+Game&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Water+Gun+Balloon+Game
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37947?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Water+Gun+Balloon+Game&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Water+Gun+Balloon+Game&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

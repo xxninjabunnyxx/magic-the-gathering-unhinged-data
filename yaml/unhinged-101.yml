@@ -1,0 +1,109 @@
+---
+object: card
+id: e8100f78-0dd1-4750-8a8a-d4fda30d8432
+oracle_id: 3745baec-71e7-4ddd-8e35-a1006719f930
+multiverse_ids:
+- 73971
+tcgplayer_id: 37877
+cardmarket_id: 14864
+name: Keeper of the Sacred Word
+lang: en
+released_at: '2004-11-19'
+uri: https://api.scryfall.com/cards/e8100f78-0dd1-4750-8a8a-d4fda30d8432
+scryfall_uri: https://scryfall.com/card/unh/101/keeper-of-the-sacred-word?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.jpg?1562489841
+  normal: https://cards.scryfall.io/normal/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.jpg?1562489841
+  large: https://cards.scryfall.io/large/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.jpg?1562489841
+  png: https://cards.scryfall.io/png/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.png?1562489841
+  art_crop: https://cards.scryfall.io/art_crop/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.jpg?1562489841
+  border_crop: https://cards.scryfall.io/border_crop/front/e/8/e8100f78-0dd1-4750-8a8a-d4fda30d8432.jpg?1562489841
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Human Druid
+oracle_text: |-
+  As Keeper of the Sacred Word enters the battlefield, choose a word.
+  Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn.
+power: '2'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 4c8bc76a-05a5-43db-aaf0-34deb347b871
+set: unh
+set_name: Unhinged
+set_type: funny
+set_uri: https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/unh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e8100f78-0dd1-4750-8a8a-d4fda30d8432/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3745baec-71e7-4ddd-8e35-a1006719f930&unique=prints
+collector_number: '101'
+digital: false
+rarity: common
+flavor_text: This is not a subliminal message.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dany Orizio
+artist_ids:
+- fcd5ea36-64e0-4af0-992a-3c68a34a400f
+illustration_id: 2d28811d-26db-4e20-b27a-11bfea4eec58
+border_color: silver
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.17'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73971
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Keeper+of+the+Sacred+Word&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Keeper+of+the+Sacred+Word&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Keeper+of+the+Sacred+Word
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37877?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Keeper+of+the+Sacred+Word&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Keeper+of+the+Sacred+Word&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
